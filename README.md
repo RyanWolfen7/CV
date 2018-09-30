@@ -65,4 +65,4 @@ While completely competent with autonomous work, I am a proven team player with 
 **United States Army** (2013 to 2016)    
 *11B Infantryman*  
 **AT&T / Prime United / Cellular Plus** (2008 to 2012)   
-*Liason, Solutions Provider, Salesman*  
+*Liaison, Solutions Provider, Salesman*  
