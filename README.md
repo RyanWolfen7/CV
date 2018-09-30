@@ -4,7 +4,7 @@ I am an US Army veteran and **Junior Full Stack Developer**. I've traveled the w
 
 ## Skills
 
-#### Leadership
+### Leadership
 
 From leading a district level sales campaign to leading soldiers into combat scenarios, I have always stayed adaptive and proactive in my leadership capabilities ensuring team/unit cohesion and pragmatic results.
 
@@ -18,7 +18,7 @@ From leading a district level sales campaign to leading soldiers into combat sce
 - **Jungle Operations Training Course Expert**
   - Planned and executed long term survivability for company level assets longer then 3 months.
 
-#### Team Player
+### Team Player
 
 While completely competent with autonomous work, I am a proven team player with extensive experience. My time in the military has taught me well on how to integrate into any team at any level. Being **Adaptable, Disciplined, and Highly Motivated** I can easily be attached to any team.  
 
