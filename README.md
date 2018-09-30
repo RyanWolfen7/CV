@@ -8,14 +8,14 @@ I am an US Army veteran and **Junior Full Stack Developer**. I've traveled the w
 
 From leading a district level sales campaign to leading soldiers into combat scenarios, I have always stayed adaptive and proactive in my leadership capabilities ensuring team/unit cohesion and pragmatic results.
 
-- Sales Team Leader
+- **Sales Team Leader**
   - Sold 11 packages per person, on average, of AT&T U-verse per week; surpassing the standard by 300%
-- Infantry Team Leader
+- **Infantry Team Leader**
   - Maintained, Supervised, and instructed a team of 4 soldiers
   - Planned, coordinated, and executed complex maneuvers and logistical assets
-- Adaptive Leader Course Instructor
+- **Adaptive Leader Course Instructor**
   - Organized, Built, and Lectured senior NCOs on a multitude of different leadership styles, techniques, and advanced problem solving tactics.
-- Jungle Operations Training Course Expert
+- **Jungle Operations Training Course Expert**
   - Planned and executed long term survivability for company level assets longer then 3 months.
 
 #### Team Player
