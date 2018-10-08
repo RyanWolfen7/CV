@@ -49,7 +49,7 @@ While completely competent with autonomous work, I am a proven team player with 
 - BA in Computer Science, minor in Philosophy
   - Expected 2022
 
-#### Qualifications#####
+#### Qualifications
 
 - Secret Security Clearance
 - Anti Terrorism Level 1 Certified
