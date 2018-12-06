@@ -8,7 +8,7 @@ I am an US Army veteran and **Junior Full Stack Developer**. I've traveled the w
 
 ## Skills
 |SCRUM|Development|Language Familiarities||
-|-----|
+|-----|-----------|----------------------|-|
 |AGILE| OOD|Ruby / Rails|CSS|
 |REED| TDD|JavaScript|HTML|
 | XP| MVC| Python| HAML
