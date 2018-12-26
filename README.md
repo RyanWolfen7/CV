@@ -28,7 +28,7 @@ While completely competent with autonomous work, I am a **proven team player wit
   - https://github.com/RyanWolfen7/exponential-notes
   - https://github.com/RyanWolfen7/MakersBnb
   - https://github.com/RyanWolfen7/instagram-challenge
-  - https://github.com/MugeHasilci/GIVEit-frontend
+  - https://github.com/RyanWolfen7/GIVEit-frontend
 
 
 ## Education
