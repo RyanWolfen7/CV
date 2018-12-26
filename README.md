@@ -51,7 +51,7 @@ While completely competent with autonomous work, I am a **proven team player wit
 
 - BA in Computer Science, minor in Philosophy
 
-#### Qualifications#####
+#### Qualifications ####
 
 - Makers Academy Graduate
 - Secret Security Clearance
