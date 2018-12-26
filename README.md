@@ -50,7 +50,6 @@ While completely competent with autonomous work, I am a **proven team player wit
 #### University of Alabama (2018 to Actively Enrolled)
 
 - BA in Computer Science, minor in Philosophy
-  - Expected 2022
 
 #### Qualifications#####
 
