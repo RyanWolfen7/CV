@@ -15,13 +15,13 @@ I am an US Army veteran and **Junior Full Stack Developer**. I've traveled the w
 |ADMP| DDD|C / C++ / C#| SQL
 ### Adaptable 
 
-- Learned Ruby a day before applying to a code boot camp with skill requirements to enter the course( *10% acceptance rate* )
-- During a challenge to use no frameworks for a single paged website, *created a Testing framework from scratch* to successfully *test drive* a project in a language I had learned three days prior.
-- Built my own mini websites and projects in my free time to gain better understanding of *API integrations*, resulting in my teams success in integrating our backend API and 3 other APIs into our front end.
+- **Learned Ruby in a day** before applying to a code boot camp with skill requirements to enter the course( **10% acceptance rate** )
+- During a challenge to use no frameworks for a single paged website, **created a Testing framework from scratch** to successfully **test drive** a project in a language I had learned three days prior (**Javascript**).
+- **Built my own mini websites and projects** in my free time to gain better understanding of **API integrations**, resulting in my teams success in integrating our backend API and 3 other APIs into our front end.
 
 ### Team Player
 
-While completely competent with autonomous work, I am a proven team player with extensive experience. My time in the military has taught me well on how to integrate into any team at any level. Being **Adaptable, Disciplined, and Highly Motivated** I can easily be attached to any team.  
+While completely competent with autonomous work, I am a **proven team player with extensive experience**. My time in the military has taught me well on how to **integrate into any team** at any level. My time at Makers had taught me how to **grow collabrativly** with my team. Being **Adaptable, Disciplined, and Highly Motivated** I can easily be attached to any team.  
 
 - **Experience In Multiple Development Team Projects**
   - https://github.com/RyanWolfen7/exponential-testing
