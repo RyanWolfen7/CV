@@ -14,6 +14,9 @@ I am an US Army veteran and **Full Stack Developer**. I've traveled the world an
 |REED| TDD|JavaScript|HTML|
 | XP| MVC| Python| HAML
 |ADMP| DDD|C / C++ / C#| SQL
+
+600h+ of programming experience (Solo/Paired)
+
 ### Adaptable 
 
 - **Learned Ruby in a day** before applying to a code boot camp with skill requirements to enter the course( **10% acceptance rate** )
