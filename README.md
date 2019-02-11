@@ -1,10 +1,11 @@
 ## Ryan Andrew Clark
 
-I am an US Army veteran and **Junior Full Stack Developer**. I've traveled the world and fostered many relationships with various cultures. I am looking for sponsorship opportunities for a Full Stack Developer in the UK with a highly motivated team.
+I am an US Army veteran and **Full Stack Developer**. I've traveled the world and fostered many relationships with various cultures. I am looking for sponsorship opportunities for a Full Stack Developer in the UK with a highly motivated team.
 
 * Github: https://github.com/RyanWolfen7
 * LinkedIn: https://www.linkedin.com/in/ryan-clark-44b156127/
 * Email: wolfen7lada@gmail.com
+* Portfolio: www.ryanaclarksportfolio.com
 
 ## Skills
 |SCRUM|Development|Language Familiarities||
